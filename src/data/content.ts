@@ -4,7 +4,7 @@ export const personalInfo = {
     tagline: "Créativité, Technique et Sens Marketing",
     email: "jeanguillaumeyatta@gmail.com",
     phone: "01 56 72 36 50",
-    whatsapp: "01 56 72 36 50",
+    whatsapp: "56 72 36 50",
     location: "Bénin",
     bio: `Je suis Jean YATTA, designer graphique polyvalent avec une passion pour la création visuelle et la communication efficace.
 Mon parcours m'a permis de développer plusieurs compétences complémentaires, toutes orientées vers un seul objectif : aider les entreprises et particuliers à mieux présenter, vendre et valoriser leurs projets.`,
